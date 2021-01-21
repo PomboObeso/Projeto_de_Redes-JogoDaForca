@@ -6,5 +6,6 @@ um cliente o servidor.
 O servidor é único e a conexão com clientes é múltipla.
 
 Linguagem utilizada: Python (3.9.1)
+
 Ambiente utilizado: Visual Studio Code.
 
